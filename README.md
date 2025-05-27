@@ -72,12 +72,6 @@ sudo deb-get install github-desktop
 
 ---
 
-## ❗ Problemas conocidos
-
-- Si encuentras errores con credenciales o sincronización, consulta la [documentación oficial de problemas conocidos](https://github.com/shiftkey/desktop/blob/main/docs/known-issues.md#linux).
-
----
-
 ## 📚 Recursos adicionales
 
 - [Documentación oficial de inicio](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)
